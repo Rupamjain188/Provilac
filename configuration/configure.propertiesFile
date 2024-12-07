@@ -1,0 +1,21 @@
+url=https://provilac.com/
+moblieNO=9423238892
+browserName=Chrome
+opratingSystem=Window 11
+
+##Login process :
+valid_user_name=Rupam jain
+
+#Profile_setUp:Valid
+name=Harshal Patil
+Email= rupamjain@gmail.com
+
+#Profile_setup: Invalid
+Name0=harshal
+Name2=3455455
+Email=Harshal@gmail.com
+Email2=rahul#@gmail.com
+
+#Set Profile With Invalid, with this email already exists Update.
+Name3=Rahul
+Email3=rahul@gmail.com
